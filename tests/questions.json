@@ -1,0 +1,22 @@
+[
+  {"id": 1, "question": "How many days of annual leave do I get per year?", "source": "employee_handbook.pdf", "location": "page 2", "keywords": ["21"]},
+  {"id": 2, "question": "Can I carry over unused vacation days to next year?", "source": "employee_handbook.pdf", "location": "page 2", "keywords": ["5"]},
+  {"id": 3, "question": "When do I need to bring a medical certificate for sick leave?", "source": "employee_handbook.pdf", "location": "page 3", "keywords": ["two"]},
+  {"id": 4, "question": "How long is paternity leave?", "source": "employee_handbook.pdf", "location": "page 4", "keywords": ["10"]},
+  {"id": 5, "question": "What are the core working hours?", "source": "employee_handbook.pdf", "location": "page 1", "keywords": ["10:00", "15:00"]},
+  {"id": 6, "question": "How many days a week can I work from home?", "source": "remote_work_policy.pdf", "location": "page 1", "keywords": ["two"]},
+  {"id": 7, "question": "Do I get an internet allowance when working remotely?", "source": "remote_work_policy.pdf", "location": "page 2", "keywords": ["150"]},
+  {"id": 8, "question": "Can I work from another country for a few weeks?", "source": "remote_work_policy.pdf", "location": "page 4", "keywords": ["10"]},
+  {"id": 9, "question": "I forgot my password, how do I reset it?", "source": "it_help_guide.docx", "location": "Resetting Your Password", "keywords": ["reset.nimbus.example"]},
+  {"id": 10, "question": "My VPN won't connect, what should I do?", "source": "it_help_guide.docx", "location": "Connecting to the VPN", "keywords": ["restart"]},
+  {"id": 11, "question": "What is the phone extension of the IT helpdesk?", "source": "it_help_guide.docx", "location": "Contacting the IT Helpdesk", "keywords": ["4357"]},
+  {"id": 12, "question": "What should I do if my laptop is stolen?", "source": "it_help_guide.docx", "location": "Laptops and Equipment", "keywords": ["24"]},
+  {"id": 13, "question": "What is the deadline for submitting expense receipts?", "source": "expense_policy.txt", "location": "1. Submitting Expenses", "keywords": ["30"]},
+  {"id": 14, "question": "Am I allowed to fly business class?", "source": "expense_policy.txt", "location": "2. Travel Booking", "keywords": ["6 hours"]},
+  {"id": 15, "question": "What is the daily meal allowance when travelling abroad?", "source": "expense_policy.txt", "location": "3. Daily Allowance", "keywords": ["350"]},
+  {"id": 16, "question": "What should I bring on my first day at work?", "source": "onboarding_guide.txt", "location": "Your First Day", "keywords": ["ID"]},
+  {"id": 17, "question": "Does the company offer a gym membership?", "source": null, "location": null, "keywords": []},
+  {"id": 18, "question": "What is the dress code in the office?", "source": null, "location": null, "keywords": []},
+  {"id": 19, "question": "Who won the football World Cup in 2022?", "source": null, "location": null, "keywords": []},
+  {"id": 20, "question": "Can I bring my dog to the office?", "source": null, "location": null, "keywords": []}
+]
